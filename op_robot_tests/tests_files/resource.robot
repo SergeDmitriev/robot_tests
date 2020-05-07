@@ -5,7 +5,7 @@ ${API_VERSION}   2.5
 ${BROKER}        Quinta
 ${DS_HOST_URL}   https://upload-docs-sandbox-2.prozorro.gov.ua
 ${ROLE}          viewer
-${EDR_HOST_URL}  https://lb-edr-sandbox-2.prozorro.gov.ua
+${EDR_HOST_URL}  https://lb-edr-sandbox.prozorro.gov.ua
 ${EDR_VERSION}   0
 
 ${DASU_RESOURCE}      monitorings
